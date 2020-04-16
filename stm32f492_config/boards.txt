@@ -1,0 +1,11 @@
+Disco.menu.pnum.NUCLEO_F429ZI=STM32F429I-DISC1
+Disco.menu.pnum.NUCLEO_F429ZI.node=DIS_F429ZI
+Disco.menu.pnum.NUCLEO_F429ZI.upload.maximum_size=2097152
+Disco.menu.pnum.NUCLEO_F429ZI.upload.maximum_data_size=262144
+Disco.menu.pnum.NUCLEO_F429ZI.build.mcu=cortex-m4
+Disco.menu.pnum.NUCLEO_F429ZI.build.flags.fp=-mfpu=fpv4-sp-d16 -mfloat-abi=hard
+Disco.menu.pnum.NUCLEO_F429ZI.build.board=DISCO_F429I
+Disco.menu.pnum.NUCLEO_F429ZI.build.series=STM32F4xx
+Disco.menu.pnum.NUCLEO_F429ZI.build.product_line=STM32F429xx
+Disco.menu.pnum.NUCLEO_F429ZI.build.variant=DISCO_F429I
+Disco.menu.pnum.NUCLEO_F429ZI.build.cmsis_lib_gcc=arm_cortexM4lf_math
